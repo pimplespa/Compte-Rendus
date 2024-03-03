@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: center 
+}
+
+.button {
+    background-color: #db6d12;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    font-size: 18px;
+}
+
+.button:hover {
+    background-color: #db6d70;
+}
